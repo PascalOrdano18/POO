@@ -1,4 +1,4 @@
-package Parciales.SegundosParciales.C2_2023;
+package Parciales.SegundosParciales.C2_2023.Ej1;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package Parciales.SegundosParciales.C2_2023;
+package Parciales.SegundosParciales.C2_2023.Ej1;
 
 public class Tester {
     public static void main(String[] args){
