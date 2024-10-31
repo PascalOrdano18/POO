@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Counter{
+    -int count
+    +Counter()
+    +int getCount()
+    +void incrementCounter()
+    +void decreaseCounter()
+}
+
+@enduml

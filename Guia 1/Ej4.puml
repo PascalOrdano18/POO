@@ -1,0 +1,17 @@
+@startuml
+
+class Affiliate{
+    -String firstName
+    -String lastName
+    -Date bornDate
+    -int affiliateNumber
+
+    -int INITIAL NUMBER = 1000
+    -int LAST NUMBER
+
+    +Affiliate(String firstName, String lastName, Date bornDate, int affiliateNumber)
+    -int getAndIncrement()
+
+}
+
+@enduml

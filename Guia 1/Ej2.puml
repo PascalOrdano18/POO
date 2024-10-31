@@ -1,0 +1,16 @@
+@startuml
+
+class ComplexNumber{
+    -double real
+    -double imaginary
+
+    +Complex(double real, double imaginary)
+    +Complex(double real)
+    +double getReal()
+    +double getImaginary()
+
+    +Complex sum(Complex c)
+
+}
+
+@enduml
